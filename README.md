@@ -137,7 +137,7 @@ Tujuan grayscale:
 
 ### 📸 Hasil Grayscale
 
-![Grayscale](Screenshot_Hasil_ORB/SS_2_Grayscale.png)
+![Grayscale](https://github.com/ramzi121006/pengolahan_citra_ORB/blob/f065cd9d1217a2ca3acc13924dcdb7f582be2b5e/Screenshot%202026-05-21%20141625.png)
 
 ---
 
