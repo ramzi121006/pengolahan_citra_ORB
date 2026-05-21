@@ -173,7 +173,7 @@ Merupakan data numerik yang digunakan untuk membandingkan fitur antar gambar.
 
 ### 📸 Hasil Keypoints ORB
 
-![Keypoints ORB](Screenshot_Hasil_ORB/SS_3_Keypoints_ORB.png)
+![Keypoints ORB](https://github.com/ramzi121006/pengolahan_citra_ORB/blob/885fd83e92b4df17dcdd4997125cc7acd2a80623/Screenshot%202026-05-21%20141822.png)
 
 ---
 
