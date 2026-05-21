@@ -117,7 +117,7 @@ Kedua gambar tersebut nantinya akan dibandingkan menggunakan algoritma ORB.
 
 ### 📸 Hasil Membaca Gambar
 
-![Gambar Asli](https://github.com/NadhiaShafira/pengolahan-citra-orb/blob/782cb0ecd5ca8b122dbe54a2c1e40105357de58d/Screenshot_Hasil_ORB/SS_1_Gambar_Asli.png.png)
+![Gambar Asli](https://github.com/ramzi121006/pengolahan_citra_ORB/blob/6b022779eb6a6b95345dca02b7ac256c9e181f69/Screenshot%202026-05-21%20141230.png)
 
 ---
 
