@@ -5,7 +5,7 @@
 | Keterangan | Isi |
 |---|---|
 | 👤 Nama | **Muhamad valenino ramzi** |
-| 🆔 NIM | **3124104544** |
+| 🆔 NIM | **312410454** |
 | 🏫 Kelas | **I241E** |
 | 📚 Mata Kuliah | **Pengolahan Citra** |
 | 👨‍🏫 Dosen Pengampu | **Dr. Muhamad Fatchan, S.Kom., M.Kom.** |
